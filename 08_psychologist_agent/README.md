@@ -25,6 +25,9 @@ Features a user-friendly chat interface built with Chainlit for a seamless exper
 технолођıes Used
 
 openaiagent SDK: Framework for building AI agents.
+
 Chainlit: Python library to create chat UIs for your LLM agents.
+
 OpenRouter: A unified API for accessing multiple language models.
+
 Large Language Models (LLMs): Accessed via OpenRouter endpoints.
