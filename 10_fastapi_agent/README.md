@@ -105,13 +105,6 @@ ngrok http 8000
 * Get DevOps guidance (extend `devops()` for real utility!)
 * Experience multi-agent task delegation in action
 
----
-
-## 📸 Screenshots
-
-> Add up to 4 images here for UI previews, architecture, and streaming demos.
-
----
 
 ## 🛠️ Tech Stack
 
