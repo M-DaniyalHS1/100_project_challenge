@@ -91,7 +91,5 @@ MIT License © \[Daniyal]
 * [Chainlit](https://www.chainlit.io)
 * [OpenAI Agent SDK](https://github.com/openai/openai-agents)
 
-## Results:
-    ![News agent in action]("11_news_agent/news_agent.jpg")
 
 
