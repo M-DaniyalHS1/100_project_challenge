@@ -92,6 +92,6 @@ MIT License © \[Daniyal]
 * [OpenAI Agent SDK](https://github.com/openai/openai-agents)
 
 ## Results:
-    ![News agent in action]("crypto_agent\news_agent.jpg")
+    ![News agent in action]("D:\class11\crypto_agent\news_agent.jpg")
 
 
