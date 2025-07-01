@@ -1,6 +1,6 @@
 # 🌍 GeoLocation Agent
 
-A conversational AI assistant that returns geolocation information of any IP address using the OpenAI Agent SDK, OpenRouter LLM, and Chainlit UI.
+## A conversational AI assistant that returns geolocation information of any IP address using the OpenAI Agent SDK, OpenRouter LLM, and Chainlit UI.
 
 Ask it:
 
