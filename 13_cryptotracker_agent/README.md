@@ -12,7 +12,9 @@ It’s built with Chainlit, OpenAI Agent SDK, and runs on OpenRouter.
 
 🧠 Powered by advanced LLMs via OpenRouter
 
-🛠️ Tech Stack
+
+### 🛠️ Tech Stack
+
 🧠 OpenAI Agent SDK
 
 🗣️ Chainlit (Chat UI)
@@ -24,6 +26,7 @@ It’s built with Chainlit, OpenAI Agent SDK, and runs on OpenRouter.
 🐍 Python 3.10+
 
 📦 dotenv, requests, pydantic
+
 
 ⚙️ Setup Instructions
 Clone the repository
