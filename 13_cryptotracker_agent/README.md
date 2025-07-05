@@ -3,7 +3,8 @@
 🚀 CryptoTracker Agent is an AI-powered assistant that fetches live cryptocurrency prices from the Binance API using natural language queries.
 It’s built with Chainlit, OpenAI Agent SDK, and runs on OpenRouter.
 
-🌟 Features
+### 🌟 Features
+
 📈 Get real-time prices of top cryptocurrencies
 
 🤖 Ask for top 10 coins or a specific coin price like BTCUSDT
