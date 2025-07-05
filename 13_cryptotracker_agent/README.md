@@ -56,17 +56,21 @@ chainlit run main.py
 
 "Tell me about ETHUSDT"
 
-📸 Preview
+### 📸 Preview
+
 🌟 Welcome to CryptoTracker Agent — Get live crypto prices from Binance instantly! 📊🪙💸
 
 
-🧠 How It Works
+### 🧠 How It Works
+
 A supervisor_agent handles user queries and delegates tasks
 
 A specialized crypto_agent uses tools to call the Binance API
 
 Responses are streamed to the user with token-by-token updates
 
-📜 License
+
+### 📜 License
+
 MIT License © 2025 [M.DANIYAL]
 
