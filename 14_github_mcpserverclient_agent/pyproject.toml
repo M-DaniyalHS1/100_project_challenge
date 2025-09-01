@@ -1,0 +1,13 @@
+[project]
+name = "date8"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "chainlit>=2.6.8",
+    "gitpython>=3.1.45",
+    "mcp>=1.12.4",
+    "openai-agents>=0.0.17",
+    "rich>=14.0.0",
+]
